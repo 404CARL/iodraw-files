@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sbyJ9VSXFrvNjDRg_PzN-5" target="sbyJ9VSXFrvNjDRg_PzN-11">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="sbyJ9VSXFrvNjDRg_PzN-5" target="sbyJ9VSXFrvNjDRg_PzN-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-5" value="课题调研" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
           <mxGeometry x="155" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-11" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="265" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="265" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
