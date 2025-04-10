@@ -30,7 +30,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-5" value="课题调研" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-5" value="课题调研" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="150" height="370" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-6" value="第一章" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -58,13 +58,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-11" value="&amp;nbsp; &amp;nbsp;第四章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-11" value="&amp;nbsp; &amp;nbsp;第四章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=0;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="420" y="280" width="280" height="85" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="sbyJ9VSXFrvNjDRg_PzN-14" target="sbyJ9VSXFrvNjDRg_PzN-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-14" value="&amp;nbsp; &amp;nbsp;第五章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-14" value="&amp;nbsp; &amp;nbsp;第五章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="430" y="420" width="270" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -85,7 +85,7 @@
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="190" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-26" value="&amp;nbsp; &amp;nbsp;第六章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-26" value="&amp;nbsp; &amp;nbsp;第六章" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="430" y="580" width="270" height="80" as="geometry" />
         </mxCell>
       </root>
