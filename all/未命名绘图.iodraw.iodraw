@@ -35,7 +35,12 @@
           <mxGeometry x="155" y="180" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="sbyJ9VSXFrvNjDRg_PzN-7" target="sbyJ9VSXFrvNjDRg_PzN-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="557" y="250" />
+              <mxPoint x="560" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-7" value="&amp;nbsp; &amp;nbsp; 第三章" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="286" height="80" as="geometry" />
