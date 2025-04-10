@@ -34,7 +34,7 @@
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-6" value="第一章" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="155" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-7" value="" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="sbyJ9VSXFrvNjDRg_PzN-7" value="" style="whiteSpace=wrap;html=1;rounded=1;align=left;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="286" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-10" value="第二章" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -44,7 +44,7 @@
           <mxGeometry x="420" y="265" width="280" height="85" as="geometry" />
         </mxCell>
         <mxCell id="sbyJ9VSXFrvNjDRg_PzN-14" value="" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="410" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
